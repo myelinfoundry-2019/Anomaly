@@ -1,0 +1,25 @@
+CorrelationId: 56236cdc-2bf7-4755-a851-90d68e56b9bf
+UTC DateTime: 02/08/2024 09:28:40
+
+The following files/folders have not been downloaded
+0. VT-ADL/data/capsule/test/good
+1. VT-ADL/data/capsule/test/poke
+2. VT-ADL/data/capsule/test/scratch
+3. VT-ADL/data/capsule/test/squeeze
+4. VT-ADL/data/capsule/train
+5. VT-ADL/data/carpet
+6. VT-ADL/data/grid
+7. VT-ADL/data/hazelnut
+8. VT-ADL/data/leather
+9. VT-ADL/data/metal_nut
+10. VT-ADL/data/pill
+11. VT-ADL/data/screw
+12. VT-ADL/data/tile
+13. VT-ADL/data/toothbrush
+14. VT-ADL/data/transistor
+15. VT-ADL/data/wood
+16. VT-ADL/data/zipper
+17. VT-ADL/image
+18. VT-ADL/pytorch_ssim
+19. VT-ADL/runs
+20. VT-ADL/venv
